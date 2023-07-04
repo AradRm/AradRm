@@ -1,6 +1,6 @@
 # About Me
 
-*👋 I'm [Arad rahmani], and I'm delighted to welcome you to my GitHub profile.
+* I'm Arad rahmani, and I'm delighted to welcome you to my GitHub profile.
 * I am truly love about the world of Computer Vision.
 * Currently, I am engaged in a small project focused on Digital Image Processing (DIP) using OpenCV.
 * Scan this QR code to reach me!
