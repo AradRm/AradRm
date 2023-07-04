@@ -10,4 +10,5 @@
 
 ---
 * Scan this QR code to reach me!
-![Qrcode](https://github.com/AradRm/AradRm/blob/c40d1741391866a2693951d652aba93ce8375abd/download%20(1).png)
+  
+<img src="https://github.com/AradRm/AradRm/blob/c40d1741391866a2693951d652aba93ce8375abd/download%20(1).png" alt="Alt Text" width="300">
